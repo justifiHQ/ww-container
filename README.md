@@ -1,4 +1,4 @@
-# WW-IMAGE
+# WW-CONTAINER
 
 This is an element for Weweb, which is only wrapping other elements.
 
@@ -12,4 +12,4 @@ To serve locally, run `yarn serve --port=[PORT]`, and then go to Weweb editor, o
 
 ## Build
 
-Before release, you can check build error by running `yarn build --name=ww-image`
+Before release, you can check build error by running `yarn build --name=ww-container`
